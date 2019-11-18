@@ -19,7 +19,7 @@ provides an excellent fit to the solution of the growth equation for both genera
 ## Citing the paper 
 If you use any of the above codes or the figures in a published work please cite the following paper:
 <br>*Evolution of the f&sigma;<sub>8</sub> Tension with the Planck15-&Lambda;CDM Determination and Implications for Modified Gravity Theories.*
-Lavrentios Kazantzidis, Leandros Perivolaropoulos
+<br?Lavrentios Kazantzidis, Leandros Perivolaropoulos
 <br>[Phys.Rev. D97 (2018) no.10, 103503](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.97.103503), [arxiv:1803.01337](https://arxiv.org/pdf/1803.01337.pdf).
 
 Any further questions/comments are welcome.
